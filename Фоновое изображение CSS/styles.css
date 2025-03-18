@@ -1,0 +1,7 @@
+.background {
+    background-image: url('image.png');
+    height: 100000px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
