@@ -1,0 +1,19 @@
+#elem1 {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+}
+
+#elem2 {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+}
